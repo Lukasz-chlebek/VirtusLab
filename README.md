@@ -1,3 +1,6 @@
+Best feelings are on 1920x1080 resolutions.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
